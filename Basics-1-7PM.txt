@@ -1,0 +1,27 @@
+History
+
+- Bjarne Stroustrup at Bell Lab in 1980
+- OOPS
+
+cout 
+- it is used to send data/message to monitor
+- cout is a predefined object
+- cout "<<" - insertion or put to operator
+
+printf("%d", a);
+cout<<a;
+
+cin
+- It is used to input data from keyboard
+- cin is a predefined object
+- cin ">>" - extraction or get from operator
+
+scanf("%d", &a);
+cin>>a;
+
+stack(Last in first out): static memory allocation
+heap: dynamic memeory allocation
+
+public:
+private:
+access modifier/specifier
